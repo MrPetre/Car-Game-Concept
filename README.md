@@ -12,4 +12,4 @@ Functionality includes:
 -Window boundaries within the movement events to prevent the player from moving off the screen
 -Application will close if a car collision is detected, resulting in a game over
 
-![alt text](http://url/to/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/56548779/152586486-600fb5b6-beea-4c8a-840e-347ce663ef69.PNG)
