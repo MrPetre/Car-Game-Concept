@@ -11,3 +11,5 @@ Functionality includes:
 -Random cars, spawns, and speeds on the road
 -Window boundaries within the movement events to prevent the player from moving off the screen
 -Application will close if a car collision is detected, resulting in a game over
+
+![alt text](http://url/to/screenshot.png)
